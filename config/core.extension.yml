@@ -30,6 +30,10 @@ module:
   quickedit: 0
   rdf: 0
   search: 0
+  search_api: 0
+  search_api_page: 0
+  search_api_pantheon: 0
+  search_api_solr: 0
   shortcut: 0
   simple_block: 0
   system: 0
