@@ -1,0 +1,12 @@
+apikey: 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
+test_defaults:
+  to: tara.king@pantheon.io
+  subject: 'Test Email from SendGrid Module'
+  body:
+    value: 'Test Message for SendGrid.'
+    format: plain_text
+  from_name: Tara
+  to_name: Tara
+  reply_to: tara.king@pantheon.io
+_core:
+  default_config_hash: g4qz7cPnloXFwtnLYfIKI2VS0gf_UFOz_I2uQiiulC8
