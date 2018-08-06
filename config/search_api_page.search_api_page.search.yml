@@ -1,0 +1,20 @@
+uuid: c15e3646-0f19-4f19-8495-cc01371d0e33
+langcode: en
+status: true
+dependencies:
+  config:
+    - search_api.index.solr_index
+id: search
+label: Search
+path: search
+clean_url: true
+show_all_when_no_keys: false
+index: solr_index
+limit: 10
+searched_fields:
+  body: body
+style: view_modes
+view_mode_configuration:
+  'entity:node_article': default
+  'entity:node_page': default
+show_search_form: true
