@@ -1,4 +1,3 @@
-apikey: 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
 test_defaults:
   to: tara.king@pantheon.io
   subject: 'Test Email from SendGrid Module'
